@@ -1,7 +1,15 @@
-## Arthur Carvalho Bandeira de Melo
+# Arthur Carvalho Bandeira de Melo 💻
 
-**`Desenvolvedor`**
+<div align="center">
+  
+**`Estudante de ADS`**
 
+![hacker-hacker-man](https://github.com/user-attachments/assets/773fafdd-20fe-4088-8d4c-2681d2b93050)
+</div>
+
+# Linguagens 🧠
+
+[![My Skills](https://skillicons.dev/icons?i=cs,js,nodejs,html,css,git,mysql)](https://skillicons.dev)
 <!--
 **carvalho-cbm/carvalho-cbm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
