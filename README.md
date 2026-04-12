@@ -1,9 +1,6 @@
 # Olá, eu sou o Arthur 👋
 
 <div align="center">
-  <table>
-    <tr>
-      <td>
         <p align="left">
           👨‍💻 Estagiário em Desenvolvimento Fullstack na SporTI Brasil  
           🎓 Estudante de Tecnologia da Informação  
@@ -12,12 +9,6 @@
           🌱 Atualmente me aprofundando em <strong>DevOps, CI/CD</strong> e infraestrutura como código  
           💡 Apaixonado por entender o contexto por trás das soluções que desenvolvo  
         </p>
-      </td>
-      <td>
-        <img src="https://github.com/user-attachments/assets/6708eba2-d853-49dd-a52e-e748b5f81cee" width="250px" alt="Developer gif">
-      </td>
-    </tr>
-  </table>
 </div>
 
 ---
