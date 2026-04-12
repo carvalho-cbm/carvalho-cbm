@@ -1,4 +1,4 @@
-# Olá, eu sou o Arthur Carvalho Bandeira de Melo 👋
+# Olá, eu sou o Arthur 👋
 
 <div align="center">
   <table>
