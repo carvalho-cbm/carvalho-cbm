@@ -19,15 +19,6 @@
 
 ---
 
-## 🧰 Alguns Projetos do Meu Portfólio
-
-| Projeto | Tecnologias | Descrição |
-|--------|-------------|-----------|
-| [📌 Adivinhação de Números com React + ASP.NET Core API](https://github.com/carvalho-cbm/Jogo-de-adivinhacao) | .NET, React, MVC | Jogo simples de adivinhação de números entre 1 e 100, desenvolvido com ASP.NET Core no backend e React no frontend para interação do usuário. Projeto com foco em integração fullstack e validação de dados |
-| [📌 Cadastros-de-Pessoas-Nodejs-Express](https://github.com/carvalho-cbm/Cadastros-de-Pessoas-Nodejs-Express) | JavaScript, HTML, CSS, Node, Sqlite | Página de cadastro para pessoas com histórico de cadastros incluido, utilizando html e css no frontend e node e express no backend |
-
----
-
 ## 📫 Estou ativo em:
 
 - 📧 Email: [arthurcbm2002@gmail.com](mailto:arthurcbm2002@gmail.com)  
