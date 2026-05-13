@@ -2,11 +2,9 @@
 
 <div align="center">
         <p align="left">
-          👨‍💻 Estagiário em Desenvolvimento Fullstack na SporTI Brasil  
           🎓 Estudante de Tecnologia da Informação  
           🚀 Atuo com desenvolvimento de aplicações utilizando <strong>.NET, JavaScript e MySQL</strong>  
           🔧 Experiência prática com <strong>Azure DevOps</strong> para versionamento e pipelines  
-          🌱 Atualmente me aprofundando em <strong>DevOps, CI/CD</strong> e infraestrutura como código  
           💡 Apaixonado por entender o contexto por trás das soluções que desenvolvo  
         </p>
 </div>
